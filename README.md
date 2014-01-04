@@ -3,15 +3,9 @@ crypto
 
 Python library for simply text cryptography.
 
-Authors
--------
-*  Ondrej Sika, <http://ondrejsika.com>, dev@ondrejsika.com
-
-Source
-------
-* Documentation: <http://ondrejsika.com/docs/python-crypto>
-* Python Package Index: <http://pypi.python.org/pypi/crypto>
-* GitHub: <https://github.com/sikaondrej/python-crypto>
+* __Authors__: [Ondrej Sika](http://ondrejsika.com/c.html)
+* __Python Package Index__: <http://pypi.python.org/pypi/crypto>
+* __GitHub__: <https://github.com/sikaondrej/python-crypto>
 
 Documentation
 =============
