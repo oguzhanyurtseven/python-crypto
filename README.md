@@ -45,3 +45,7 @@ Functions
 
 ### Decrypt from string
     message = crypto.decrypt_str(encrypted, private)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ondrejsika/python-crypto/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
